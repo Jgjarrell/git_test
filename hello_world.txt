@@ -1,0 +1,1 @@
+This change will make the text green in the log, because changes have been made without adding it to the staging area.
